@@ -1,5 +1,6 @@
 Commandos de git utilizados:
 
+------------------------------
 git init
 git status
 git add <file>
