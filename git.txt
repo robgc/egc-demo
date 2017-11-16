@@ -17,4 +17,6 @@ git checkout <branchName>
 git merge <branchName>
 git remote add <remoteName> <url>
 git push -u <remoteName> <branchName>
+git push
+git pull
 
