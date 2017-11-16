@@ -21,4 +21,10 @@ git push
 git pull
 git rm <fichero>
 git mv <fichero>
-
+git checkout <fileName>
+git reset --hard
+git reset HEAD^
+git commit --amend
+git rebase -i <commitId>
+git mv
+git rm
