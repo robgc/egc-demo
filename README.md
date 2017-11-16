@@ -1,3 +1,5 @@
-# Repositorio de pruebas EGC
+Esto es un repositorio de prueba para EGC
+----------------
 
-Nueva línea para hacer otro commit.
+Ahora voy a poner una descripción más larga para seguir probando GIT
+Sigo probando...
