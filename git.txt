@@ -19,4 +19,6 @@ git remote add <remoteName> <url>
 git push -u <remoteName> <branchName>
 git push
 git pull
+git rm <fichero>
+git mv <fichero>
 
